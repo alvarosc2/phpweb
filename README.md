@@ -1,5 +1,17 @@
 # Readme
 
+## PHP
+
+Ya contaba con una instalación de PHP en mi sistema Linux. No es un lenguaje facil de instalar pero para este trabajo estoy abusando de mi experiencia previa ya que he tenido un par de empleos como programador PHP.
+
+### Terminal mostrando la version de PHP
+Los archivos de la aplicación en PHP se guardan en la ruta /var/www/html/ en donde PHP busca el archivo index.php que es el punto de entrada de la aplicación.
+![Terminal mostrando la version de PHP](/img/php_version.png)
+
+
+### Browser mostrando la corrida del programa en PHP
+![Browser mostrando la corrida del programa en PHP](/img/browser.png)
+
 ## Archivo index.php
 
 Para el archivo index.php, crea un formulario con las siguientes características: 
